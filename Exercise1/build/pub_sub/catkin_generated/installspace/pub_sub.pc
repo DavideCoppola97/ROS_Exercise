@@ -1,0 +1,8 @@
+prefix=/home/mivia/ROS_Robotic_Ecercises/Exercise1/install
+
+Name: pub_sub
+Description: Description of pub_sub
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

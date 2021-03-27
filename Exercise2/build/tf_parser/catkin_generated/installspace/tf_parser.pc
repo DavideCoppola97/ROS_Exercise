@@ -1,0 +1,8 @@
+prefix=/home/mivia/ROS_Robotic_Ecercises/Exercise2/install
+
+Name: tf_parser
+Description: Description of tf_parser
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

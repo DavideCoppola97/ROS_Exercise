@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/mivia/ROS_Robotic_Ecercises/Exercise2/devel/.private/catkin_tools_prebuild/setup.sh

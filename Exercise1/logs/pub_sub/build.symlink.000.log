@@ -1,0 +1,5 @@
+Symlinking /home/mivia/ROS_Robotic_Ecercises/Exercise1/devel/lib/pub_sub/sub
+Symlinking /home/mivia/ROS_Robotic_Ecercises/Exercise1/devel/lib/pub_sub/pub
+Symlinking /home/mivia/ROS_Robotic_Ecercises/Exercise1/devel/lib/pkgconfig/pub_sub.pc
+Symlinking /home/mivia/ROS_Robotic_Ecercises/Exercise1/devel/share/pub_sub/cmake/pub_subConfig.cmake
+Symlinking /home/mivia/ROS_Robotic_Ecercises/Exercise1/devel/share/pub_sub/cmake/pub_subConfig-version.cmake

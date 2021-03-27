@@ -1,0 +1,3 @@
+Symlinking /home/mivia/ROS_Robotic_Ecercises/Exercise2/devel/lib/pkgconfig/fanuc_moveit_config.pc
+Symlinking /home/mivia/ROS_Robotic_Ecercises/Exercise2/devel/share/fanuc_moveit_config/cmake/fanuc_moveit_configConfig-version.cmake
+Symlinking /home/mivia/ROS_Robotic_Ecercises/Exercise2/devel/share/fanuc_moveit_config/cmake/fanuc_moveit_configConfig.cmake

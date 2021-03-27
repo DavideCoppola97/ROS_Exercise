@@ -1,0 +1,6 @@
+devel_space: /home/mivia/ROS_Robotic_Ecercises/Exercise2/devel
+install: false
+install_space: /home/mivia/ROS_Robotic_Ecercises/Exercise2/install
+profile: default
+source_space: /home/mivia/ROS_Robotic_Ecercises/Exercise2/src
+workspace: /home/mivia/ROS_Robotic_Ecercises/Exercise2

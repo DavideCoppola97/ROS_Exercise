@@ -1,0 +1,19 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/mivia/ROS_Robotic_Ecercises/Exercise3/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/mivia/ROS_Robotic_Ecercises/Exercise3/src/kinematics_action/include/**",
+        "/home/mivia/catkin_ws/src/ros_best_practices/ros_package_template/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}

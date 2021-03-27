@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/mivia/ROS_Robotic_Ecercises/Exercise4/devel/.private/fanuc_move_group_interface/setup.sh

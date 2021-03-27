@@ -1,0 +1,8 @@
+kinematics_action
+/home/mivia/ROS_Robotic_Ecercises/Exercise3/devel/.private/kinematics_action/cmake.lock /home/mivia/ROS_Robotic_Ecercises/Exercise3/devel/./cmake.lock
+/home/mivia/ROS_Robotic_Ecercises/Exercise3/devel/.private/kinematics_action/lib/libkinematics_action_library.so /home/mivia/ROS_Robotic_Ecercises/Exercise3/devel/lib/libkinematics_action_library.so
+/home/mivia/ROS_Robotic_Ecercises/Exercise3/devel/.private/kinematics_action/lib/kinematics_action/kinematics_action_client /home/mivia/ROS_Robotic_Ecercises/Exercise3/devel/lib/kinematics_action/kinematics_action_client
+/home/mivia/ROS_Robotic_Ecercises/Exercise3/devel/.private/kinematics_action/lib/kinematics_action/kinematics_action_server /home/mivia/ROS_Robotic_Ecercises/Exercise3/devel/lib/kinematics_action/kinematics_action_server
+/home/mivia/ROS_Robotic_Ecercises/Exercise3/devel/.private/kinematics_action/lib/pkgconfig/kinematics_action.pc /home/mivia/ROS_Robotic_Ecercises/Exercise3/devel/lib/pkgconfig/kinematics_action.pc
+/home/mivia/ROS_Robotic_Ecercises/Exercise3/devel/.private/kinematics_action/share/kinematics_action/cmake/kinematics_actionConfig.cmake /home/mivia/ROS_Robotic_Ecercises/Exercise3/devel/share/kinematics_action/cmake/kinematics_actionConfig.cmake
+/home/mivia/ROS_Robotic_Ecercises/Exercise3/devel/.private/kinematics_action/share/kinematics_action/cmake/kinematics_actionConfig-version.cmake /home/mivia/ROS_Robotic_Ecercises/Exercise3/devel/share/kinematics_action/cmake/kinematics_actionConfig-version.cmake
